@@ -1,0 +1,42 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #F4F4F2; 
+}
+
+#homeimg{
+
+    margin-top: 70px;
+}
+
+#ciclo{
+    text-align: center;
+}
+
+#link{
+    text-align: center;
+}
+
+header{
+    margin-top: 60px;
+}
+
+#icon{
+    width: 25px;
+    height: 25px;
+}
+
+.col{ color: #99661F;
+}
+
+#piedepagina{
+    width: 1500px;
+    height: 300px;
+}
+
+#cor{
+    text-align: center;
+}
+
+#somosimg{
+    height: 350px;
+}
