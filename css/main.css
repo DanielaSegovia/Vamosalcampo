@@ -40,3 +40,9 @@ header{
 #somosimg{
     height: 350px;
 }
+
+@media(max-widht:500px){
+    .form-horizontal{
+        margin-bottom: 10px;
+    }
+}
