@@ -41,8 +41,10 @@ header{
     height: 350px;
 }
 
-@media(max-widht:500px){
-    .form-horizontal{
+@media(max-widht:600px){
+    .row{
+        display: flex;
+        flex-direction: row;
         margin-bottom: 10px;
     }
 }
