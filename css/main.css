@@ -58,3 +58,61 @@ footer{
 	header { padding-top:40px; }
 }
 
+.pie .izq,
+.pie .centro,
+.pie .derecho{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.pie .izq{
+    width: 30%;
+    color: #99661F;
+}
+
+.pie .izq2{
+    width: 30%;
+    
+}
+
+
+.pie .centro{
+    width: 35%;
+    color: #99661F;
+}
+
+.pie .centro p{
+	display: flexbox;
+    vertical-align: middle;
+	margin:0;
+}
+
+.pie .derecho{
+    width: 30%;
+}
+
+@media (max-width: 880px) {
+
+	.pie .izq,
+	.pie .centro,
+	.pie .derecho{
+		display: contents;
+		width: 100%;
+		margin-bottom: 0.1px;
+		text-align: center;
+	}
+
+
+}
+
+.pie .centro p{
+	display: inline-block;
+	vertical-align: middle;
+	margin:0;
+}
+
+.pie .derecho a{
+	display: inline-block;
+	vertical-align: middle;
+	margin:0;
+}
