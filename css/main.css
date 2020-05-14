@@ -13,6 +13,11 @@ body{
     margin-top: 70px;
 }
 
+.descp{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
 #ciclo{
     text-align: center;
 }
